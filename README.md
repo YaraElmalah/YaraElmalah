@@ -2,8 +2,11 @@
 
 💻 Backend Developer | 🌐 WordPress | ⚙️ Node.js | 🚀 Laravel | ⚛️ React.js | 📚 3 years of experience shaping the backend landscape.
 
-![Hunter x Hunter](https://static.wikia.nocookie.net/p__/images/7/7c/Killua-2011.png/revision/latest/scale-to-width-down/190?cb=20160215183628&path-prefix=protagonist)
-
+<div style="display: flex; align-items: center;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/08/killua-gif-2.gif" alt="Killua GIF" width="400" height="400" style="margin-right: 40px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaraElmalah" alt="GitHub Streak" width="400" height="400" style="margin-left: 20px">
+</div>
+ 
 ## About Me
 
 I'm a passionate backend developer with a strong focus on building efficient and scalable web applications. My journey in the tech world began 3 years ago, and since then, I've been honing my skills in various technologies, with a particular interest in Node.js, Laravel, and React.js.
