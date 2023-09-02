@@ -9,7 +9,7 @@
  
 ## About Me
 
-I'm a passionate backend developer with a strong focus on building efficient and scalable web applications. My journey in the tech world began 3 years ago, and since then, I've been honing my skills in various technologies, with a particular interest in Node.js, Laravel, and React.js.
+I'm a passionate backend developer with a strong focus on building efficient and scalable web applications. My journey in the tech world began 4 years ago, and since then, I've been honing my skills in various technologies, with a particular interest in Node.js, Laravel, and React.js.
 
 When I'm not busy coding, you can find me immersed in the captivating world of Hunter x Hunter. I'm a huge fan of the series and can't get enough of the thrilling adventures and epic battles. If you share the same love for Hunter x Hunter, don't hesitate to reach out, and we can geek out together!
 
