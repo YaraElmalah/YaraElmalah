@@ -1,6 +1,6 @@
 # Hello, I'm Yara 👋
 
-💻 Backend Developer | 🌐 WordPress | ⚙️ Node.js | 🚀 Laravel | ⚛️ React.js | 📚 3 years of experience shaping the backend landscape.
+💻 Backend Developer | 🌐 WordPress | ⚙️ Node.js | 🚀 Laravel | ⚛️ React.js | 📚 4 years of experience shaping the backend landscape.
 
 <div style="display: flex; align-items: center;">
   <img src="https://www.gifcen.com/wp-content/uploads/2022/08/killua-gif-2.gif" alt="Killua GIF" width="400" height="400" style="margin-right: 40px">
